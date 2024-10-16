@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_name">姓名</string>
+    <string name="ed_name">請輸入姓名</string>
+    <string name="radioGender"></string>
+    <string name="text_gender">性別</string>
+    <string name="btn_m">男</string>
+    <string name="btn_f">女</string>
+    <string name="text_h">身高cm</string>
+    <string name="text_w">體重kg</string>
+    <string name="ed_h">請輸入身高</string>
+    <string name="ed_w">請輸入體重</string>
+    <string name="btn_BMI">計算BMI</string>
+    <string name="tv_result">結果</string>
+</resources>
